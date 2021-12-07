@@ -18,6 +18,6 @@ Este es el repositorio para los materiales para los recursos de lase de g1 de Bi
 
 ## VIDEOS DE SESIONES SINCRonicas
 
-##PARTICIPACIONES
+## PARTICIPACIONES
 
 1. Evelyng 
