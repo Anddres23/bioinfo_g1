@@ -5,12 +5,16 @@ Este es el repositorio para los materiales para los recursos de lase de g1 de Bi
 
 -Introduccion
 -  moleculas 
+-  
 - unix
+- 
 - Git
+- 
 -Python
+
 - R
 
-## VIDEOS DE SESIONES SINCR[ONICAS
+## VIDEOS DE SESIONES SINCRonicas
 
 ##PARTICIPACIONES
 
