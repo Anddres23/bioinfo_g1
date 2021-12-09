@@ -24,3 +24,5 @@ Este es el repositorio para los materiales para los recursos de lase de g1 de Bi
 ## PARTICIPACIONES
 
 1. Evelyng 
+2. Johanna
+3. Lisbeth 
